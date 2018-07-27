@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+GitHub Apps to automate and improve your workflow. Use pre-built apps to extend GitHub, and easily build and share your own.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Learn how to help the community find and contribute to your project.
+- Learn about the informal standards the community has adopted to make it easier to find and contribute to projects.
 
 ## Getting started
 
